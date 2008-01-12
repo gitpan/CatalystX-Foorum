@@ -5,7 +5,7 @@ use strict;
 use version;
 use vars qw/$VERSION/;
 
-$VERSION = version->new("0.1.1");
+$VERSION = version->new("0.1.2");
 
 1;
 __END__
@@ -14,17 +14,13 @@ __END__
 
 CatalystX::Foorum - Forum/BBS system based on Catalyst
 
-=head1 VERSION
-
-Version 0.1.0
-
 =head1 DESCRIPTION
 
 It's just a placeholder for the project Foorum. L<http://code.google.com/p/foorum/>
 
 =head1 DOWNLOAD
 
-L<http://foorum.googlecode.com/files/Foorum-0.1.1.tar.gz>
+L<http://foorum.googlecode.com/files/Foorum-0.1.2.tar.gz>
 
 =head1 LIVE DEMO
 
@@ -74,7 +70,7 @@ L<http://code.google.com/p/foorum/issues/list>
 
 =head1 SEE ALSO
 
-L<Catalyst::Runtime>, L<DBIx::Class>, L<Template>
+L<Catalyst>, L<DBIx::Class>, L<Template>
 
 =head1 AUTHOR
 
